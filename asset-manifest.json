@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lev-react-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/lev-react-app/static/js/main.5573bdb0.chunk.js",
+    "main.js.map": "/lev-react-app/static/js/main.5573bdb0.chunk.js.map",
+    "runtime-main.js": "/lev-react-app/static/js/runtime-main.382faba7.js",
+    "runtime-main.js.map": "/lev-react-app/static/js/runtime-main.382faba7.js.map",
+    "static/js/2.9c1239dc.chunk.js": "/lev-react-app/static/js/2.9c1239dc.chunk.js",
+    "static/js/2.9c1239dc.chunk.js.map": "/lev-react-app/static/js/2.9c1239dc.chunk.js.map",
+    "index.html": "/lev-react-app/index.html",
+    "precache-manifest.cc7df773e4846fba12e1251b7aa17f97.js": "/lev-react-app/precache-manifest.cc7df773e4846fba12e1251b7aa17f97.js",
+    "service-worker.js": "/lev-react-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/lev-react-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9c1239dc.chunk.js.LICENSE.txt": "/lev-react-app/static/js/2.9c1239dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lev-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.382faba7.js",
+    "static/js/2.9c1239dc.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5573bdb0.chunk.js"
+  ]
+}
